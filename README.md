@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PhilipCNel
-- 👀 I’m interested in Computer Vision, Blockchain and IoT.
-- 🌱 I’m currently learning Microsoft Data Engineering (az203).
-- 💞️ I’m looking to collaborate on Data projects.
+- 👀 I’m interested in Renewable Energy and Electric Vehicles.
+- 🌱 I’m always on the lookout for like-minded impressive people.
 - 📫 How to reach me: philipcnel@gmail.com
 
 <!---
